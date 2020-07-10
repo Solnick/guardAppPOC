@@ -1,0 +1,71 @@
+{
+  "persons": [
+	{
+			"id": "sjks82sdsdsdsdsdsdgd89",
+			"isPrivilegedToPass": true,
+			"isQHSECertificateValid": true,
+			"isDrivingLicenseValid": true,
+			"picture": "https://cybersecforum.eu/media/PRELEGENCI_gross.png",
+			"fullName": "Jose Luis",
+			"qhseCertificateExpirationDate": "02.01.2026",
+			"drivingLicenseExpirationDate": "12.10.2023",
+			"title": "driver"
+		},
+		{
+			"id": "acxxcvcvcvcvcvcvc88776",
+			"isPrivilegedToPass": false,
+			"isQHSECertificateValid": false,
+			"isDrivingLicenseValid": true,
+			"picture": "https://saraskarshaugphotography.weebly.com/uploads/1/8/5/9/18591168/254252_orig.jpg",
+			"fullName": "Jimmy Fallon",
+			"qhseCertificateExpirationDate": "02.01.2019",
+			"drivingLicenseExpirationDate": "12.10.2023",
+			"title": "driver"
+		},
+		{
+			"id": "as2sd21ds1311111188776",
+			"isPrivilegedToPass": true,
+			"isQHSECertificateValid": true,
+			"picture": "https://lh3.googleusercontent.com/proxy/p2F4C8ZCmgomejpkqtQhkInaWbaje_JAiisLPt0LkJtiXqAOnZcYMxP9P0nGVh-rly-w0phfxCvP1gocNAsfjgEuX3aSxIScB5CmIE5mn2OPex9n",
+			"fullName": "Bob Pedestrian",
+			"qhseCertificateExpirationDate": "02.01.2029",
+			"title": "visitor"
+		},
+		{
+			"id": "as2sd21111111112323776",
+			"isPrivilegedToPass": true,
+			"isQHSECertificateValid": true,
+			"picture": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/23/ps_332x433-332x433.jpg",
+			"fullName": "Joshua Smith",
+			"qhseCertificateExpirationDate": "02.01.2029",
+			"title": "employee"
+		},
+		{
+			"id": "as2sd21111111112323776",
+			"isPrivilegedToPass": true,
+			"isQHSECertificateValid": true,
+			"picture": "https://i.iplsc.com/prezydent-andrzej-duda/0009D7CFNQRLOOBM-C123-F4.jpg",
+			"fullName": "Andy Dudy",
+			"qhseCertificateExpirationDate": "02.01.2029",
+			"title": "Subcontractor"
+		}
+	],
+  "assets": [
+		{
+			"id": "sdasdfg21ds7fghjsgj731",
+			"picture": "https://i.dell.com/sites/csimages/Video_Imagery/all/ins-14-5000-serie.jpg",
+			"isPrivilegedToPass": true,
+			"fullName": "Dell inspiron 15",
+			"qhseCertificateExpirationDate": "02.01.2029",
+			"isQHSECertificateValid": false
+		},
+		{
+			"id": "sdasdfg34567fghjsgj731",
+			"picture": "https://i.pcmag.com/imagery/reviews/038Dr5TVEpwIv8rCljx6UcF-14..v_1588802180.jpg",
+			"isPrivilegedToPass": false,
+			"fullName": "Mac book pro",
+			"qhseCertificateExpirationDate": "02.01.2029",
+			"isQHSECertificateValid": false
+		}
+	]
+}
