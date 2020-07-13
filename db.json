@@ -57,14 +57,14 @@
 			"isPrivilegedToPass": true,
 			"fullName": "Dell inspiron 15",
 			"qhseCertificateExpirationDate": "02.01.2029",
-			"isQHSECertificateValid": false
+			"isQHSECertificateValid": true
 		},
 		{
 			"id": "sdasdfg34567fghjsgj731",
 			"picture": "https://i.pcmag.com/imagery/reviews/038Dr5TVEpwIv8rCljx6UcF-14..v_1588802180.jpg",
 			"isPrivilegedToPass": false,
 			"fullName": "Mac book pro",
-			"qhseCertificateExpirationDate": "02.01.2029",
+			"qhseCertificateExpirationDate": "02.01.2009",
 			"isQHSECertificateValid": false
 		}
 	]
